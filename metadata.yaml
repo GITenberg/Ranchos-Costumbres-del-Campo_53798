@@ -1,5 +1,8 @@
 _repo: Ranchos-Costumbres-del-Campo_53798
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53798-h/images/cover.jpg
 creator:
   author:
     agent_name: Viana, Javier de
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '47540'
     url: http://www.gutenberg.org/2009/agents/47540
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53798#Ranchos-Costumbres-del-Campo
 gutenberg_issued: '2016-12-24'
 gutenberg_type: Text
 identifiers:
